@@ -1,4 +1,4 @@
-title = "RoMa"
+title = "Robinson Marquez"
 baseURL = "https://example.com"
 theme = "bilberry-hugo-theme"
 
@@ -25,9 +25,9 @@ disqusShortname = "bilberry-hugo-theme"
   js_modules = []
 
   # Description and meta data for the search engines
-  author = "Lednerb"
-  description = "Bilberry Premium Theme for Hugo."
-  keywords = "blog,personal,responsive,search,font awesome,pages,posts,multilingual,highlight.js,syntax highlighting,premium,shortcuts"
+  author = "Robinson M"
+  description = "Site where you can see interesting things about programming"
+  keywords = "robinson, developer, progammer, javascript"
 
   # How many articles should be displayed at once?
   paginate = 7
@@ -36,14 +36,14 @@ disqusShortname = "bilberry-hugo-theme"
   enable_mathjax    = false
 
   # Enable / Disable algolia search
-  algolia_search    = true
+  algolia_search    = false
   algolia_appId     = "Y2C4RWMPXW"
   algolia_apiKey    = "50ea7f8c41c0ad233926e0be2b769ed1"
   algolia_indexName = "default-content"
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "Log de Robinson Marquez"
+    subtitle = "Some good code stuff"
 
     # if you want to use gravatar for the header image
     gravatarEMail = "nosnibor1989@gmail.com"
@@ -56,14 +56,14 @@ disqusShortname = "bilberry-hugo-theme"
 
   # social media profile urls for the footer links
   facebook   = ""
-  twitter    = "https://twitter.com/TheRealLednerb"
+  twitter    = "https://twitter.com/nosnibor89"
   googleplus = ""
   pinterest  = ""
   instagram  = ""
   tumblr     = ""
   youtube    = ""
   vimeo      = ""
-  github     = "https://github.com/Lednerb"
+  github     = "https://github.com/nosnibor89"
   xing       = ""
 
 # don't change anything here

@@ -1,10 +1,16 @@
 ---
-title: "About Bilberry"
+title: "Acerca de Robinson"
 date: 2017-11-01T13:18:45+01:00
-author: "Lednerb"
+author: "Robinson"
 excludeFromTopNav: false
 ---
-Bilberry is a premium theme for the [Hugo Static Website Builder](https://gohugo.io).
+
+Soy un desarrollador fullstack que ha participado en el desarrollo de plataformas de comercio electrónico, CRM y minoristas, utilizando las últimas tecnologías disponibles. 
+
+Soy un fiel seguidor de las mejores prácticas, pruebas unitarias y trabajo en equipo. Siempre que pueda aprender algo nuevo, lo hago.
+
+
+<!-- Bilberry is a premium theme for the [Hugo Static Website Builder](https://gohugo.io).
 It is full of little nice features, such as:
 
 - built-in integration for the wounderful [algolia search](https://algolia.com)
@@ -19,4 +25,4 @@ It is full of little nice features, such as:
 
 *This Bilberry theme is inspired by the Lingonberry theme from [Anders Norén](http://www.andersnoren.se/teman/lingonberry-wordpress-theme/)*
 
-**[Further information at GitHub](https://github.com/Lednerb/bilberry-hugo-theme)**
+**[Further information at GitHub](https://github.com/Lednerb/bilberry-hugo-theme)** -->
